@@ -38,7 +38,7 @@ factor_def_dict = \
 'alpha_106': ('CLOSE_DF - DELAY(CLOSE_DF, 20)', 22)}
 ```
 
-## Stage 2: Quantitative Framework
+## Stage 2: Quantitative Framework with Machine learning
 1. Data collection: All A stocks.
 2. Data cleaning: Clear inappropriate stocks like ST, ST* etc.
 3. Label making: VWAP ROI of between T and T + 11.

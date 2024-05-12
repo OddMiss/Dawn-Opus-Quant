@@ -1,0 +1,319 @@
+,factor_name,describe,need_days,contributor,calc_type,data_type,from,now_available
+0,adj_close,复权收盘价(元),1,market,daily_spider,float,market,1
+1,adj_factor,复权因子,1,market,daily_spider,float,market,1
+2,adj_high,复权最高价(元),1,market,daily_spider,float,market,1
+3,adj_high_52w,52周最高价(复权),1,market,daily_spider,float,market,1
+4,adj_low,复权最低价(元),1,market,daily_spider,float,market,1
+5,adj_low_52w,52周最低价(复权),1,market,daily_spider,float,market,1
+6,adj_open,复权开盘价(元),1,market,daily_spider,float,market,1
+7,adj_pre_close,复权昨收盘价(元),1,market,daily_spider,float,market,1
+8,alpha101_001,from open article,30,chenjl,daily_tech,float,article,1
+9,alpha101_002,from open article,11,chenjl,daily_tech,float,article,1
+10,alpha101_003,from open article,12,chenjl,daily_tech,float,article,1
+11,alpha101_004,from open article,13,chenjl,daily_tech,float,article,1
+12,alpha101_005,from open article,23,chenjl,daily_tech,float,article,1
+13,alpha101_006,from open article,13,chenjl,daily_tech,float,article,1
+14,alpha101_007,from open article,70,chenjl,daily_tech,float,article,1
+15,alpha101_008,from open article,18,chenjl,daily_tech,float,article,1
+16,alpha101_009,from open article,9,chenjl,daily_tech,float,article,1
+17,alpha101_010,from open article,8,chenjl,daily_tech,float,article,1
+18,alpha101_011,from open article,6,chenjl,daily_tech,float,article,1
+19,alpha101_012,from open article,4,chenjl,daily_tech,float,article,1
+20,alpha101_013,from open article,8,chenjl,daily_tech,float,article,1
+21,alpha101_014,from open article,13,chenjl,daily_tech,float,article,1
+22,alpha101_015,from open article,9,chenjl,daily_tech,float,article,1
+23,alpha101_016,from open article,8,chenjl,daily_tech,float,article,1
+24,alpha101_017,from open article,28,chenjl,daily_tech,float,article,1
+25,alpha101_018,from open article,13,chenjl,daily_tech,float,article,1
+26,alpha101_019,from open article,12,chenjl,daily_tech,float,article,1
+27,alpha101_020,from open article,4,chenjl,daily_tech,float,article,1
+28,alpha101_021,from open article,26,chenjl,daily_tech,float,article,1
+29,alpha101_022,from open article,23,chenjl,daily_tech,float,article,1
+30,alpha101_023,from open article,43,chenjl,daily_tech,float,article,1
+31,alpha101_024,from open article,203,chenjl,daily_tech,float,article,1
+32,alpha101_025,from open article,23,chenjl,daily_tech,float,article,1
+33,alpha101_026,from open article,16,chenjl,daily_tech,float,article,1
+34,alpha101_027,from open article,14,chenjl,daily_tech,float,article,1
+35,alpha101_028,from open article,30,chenjl,daily_tech,float,article,1
+36,alpha101_029,from open article,19,chenjl,daily_tech,float,article,1
+37,alpha101_030,from open article,23,chenjl,daily_tech,float,article,1
+38,alpha101_031,from open article,36,chenjl,daily_tech,float,article,1
+39,alpha101_032,from open article,259,chenjl,daily_tech,float,article,1
+40,alpha101_033,from open article,5,chenjl,daily_tech,float,article,1
+41,alpha101_034,from open article,9,chenjl,daily_tech,float,article,1
+42,alpha101_035,from open article,36,chenjl,daily_tech,float,article,1
+43,alpha101_037,from open article,204,chenjl,daily_tech,float,article,1
+44,alpha101_038,from open article,13,chenjl,daily_tech,float,article,1
+45,alpha101_039,from open article,254,chenjl,daily_tech,float,article,1
+46,alpha101_040,from open article,13,chenjl,daily_tech,float,article,1
+47,alpha101_041,from open article,3,chenjl,daily_tech,float,article,1
+48,alpha101_042,from open article,3,chenjl,daily_tech,float,article,1
+49,alpha101_043,from open article,43,chenjl,daily_tech,float,article,1
+50,alpha101_044,from open article,8,chenjl,daily_tech,float,article,1
+51,alpha101_045,from open article,48,chenjl,daily_tech,float,article,1
+52,alpha101_046,from open article,44,chenjl,daily_tech,float,article,1
+53,alpha101_047,from open article,23,chenjl,daily_tech,float,article,1
+54,alpha101_049,from open article,5,zhaozp,daily_tech,float,article,1
+55,alpha101_050,from open article,13,zhaozp,daily_tech,float,article,1
+56,alpha101_051,from open article,5,zhaozp,daily_tech,float,article,1
+57,alpha101_052,from open article,243,zhaozp,daily_tech,float,article,1
+58,alpha101_053,from open article,12,zhaozp,daily_tech,float,article,1
+59,alpha101_054,from open article,8,zhaozp,daily_tech,float,article,1
+60,alpha101_055,from open article,21,zhaozp,daily_tech,float,article,1
+61,alpha101_057,from open article,35,zhaozp,daily_tech,float,article,1
+62,alpha101_060,from open article,14,zhaozp,daily_tech,float,article,1
+63,alpha101_061,from open article,3,zhaozp,daily_tech,float,article,1
+64,alpha101_062,from open article,3,zhaozp,daily_tech,float,article,1
+65,alpha101_064,from open article,3,zhaozp,daily_tech,float,article,1
+66,alpha101_065,from open article,3,zhaozp,daily_tech,float,article,1
+67,alpha101_066,from open article,21,zhaozp,daily_tech,float,article,1
+68,alpha101_068,from open article,3,zhaozp,daily_tech,float,article,1
+69,alpha101_071,from open article,233,zhaozp,daily_tech,float,article,1
+70,alpha101_072,from open article,62,zhaozp,daily_tech,float,article,1
+71,alpha101_073,from open article,25,zhaozp,daily_tech,float,article,1
+72,alpha101_074,from open article,3,zhaozp,daily_tech,float,article,1
+73,alpha101_075,from open article,3,zhaozp,daily_tech,float,article,1
+74,alpha101_077,from open article,52,zhaozp,daily_tech,float,article,1
+75,alpha101_078,from open article,70,zhaozp,daily_tech,float,article,1
+76,alpha101_081,from open article,3,zhaozp,daily_tech,float,article,1
+77,alpha101_083,from open article,10,zhaozp,daily_tech,float,article,1
+78,alpha101_084,from open article,41,zhaozp,daily_tech,float,article,1
+79,alpha101_085,from open article,43,zhaozp,daily_tech,float,article,1
+80,alpha101_086,from open article,3,zhaozp,daily_tech,float,article,1
+81,alpha101_088,from open article,102,zhaozp,daily_tech,float,article,1
+82,alpha101_092,from open article,55,zhaozp,daily_tech,float,article,1
+83,alpha101_094,from open article,88,zhaozp,daily_tech,float,article,1
+84,alpha101_095,from open article,3,zhaozp,daily_tech,float,article,1
+85,alpha101_096,from open article,111,zhaozp,daily_tech,float,article,1
+86,alpha101_098,from open article,63,zhaozp,daily_tech,float,article,1
+87,alpha101_099,from open article,3,zhaozp,daily_tech,float,article,1
+88,alpha101_101,from open article,3,zhaozp,daily_tech,float,article,1
+89,alpha191_001,from open article,10,yangaq,daily_tech,float,article,1
+90,alpha191_002,from open article,4,yangaq,daily_tech,float,article,1
+91,alpha191_003,from open article,10,yangaq,daily_tech,float,article,1
+92,alpha191_004,from open article,5,yangaq,daily_tech,float,article,1
+93,alpha191_005,from open article,16,yangaq,daily_tech,float,article,1
+94,alpha191_006,from open article,7,yangaq,daily_tech,float,article,1
+95,alpha191_007,from open article,6,yangaq,daily_tech,float,article,1
+96,alpha191_008,from open article,7,yangaq,daily_tech,float,article,1
+97,alpha191_009,from open article,13,yangaq,daily_tech,float,article,1
+98,alpha191_010,from open article,30,yangaq,daily_tech,float,article,1
+99,alpha191_011,from open article,9,yangaq,daily_tech,float,article,1
+100,alpha191_012,from open article,13,yangaq,daily_tech,float,article,1
+101,alpha191_013,from open article,3,yangaq,daily_tech,float,article,1
+102,alpha191_014,from open article,8,yangaq,daily_tech,float,article,1
+103,alpha191_015,from open article,4,yangaq,daily_tech,float,article,1
+104,alpha191_016,from open article,13,yangaq,daily_tech,float,article,1
+105,alpha191_017,from open article,18,yangaq,daily_tech,float,article,1
+106,alpha191_018,from open article,8,yangaq,daily_tech,float,article,1
+107,alpha191_019,from open article,8,yangaq,daily_tech,float,article,1
+108,alpha191_020,from open article,9,yangaq,daily_tech,float,article,1
+109,alpha191_021,from open article,14,yangaq,daily_tech,float,article,1
+110,alpha191_022,from open article,24,yangaq,daily_tech,float,article,1
+111,alpha191_023,from open article,44,yangaq,daily_tech,float,article,1
+112,alpha191_024,from open article,14,yangaq,daily_tech,float,article,1
+113,alpha191_025,from open article,32,yangaq,daily_tech,float,article,1
+114,alpha191_026,from open article,238,yangaq,daily_tech,float,article,1
+115,alpha191_027,from open article,21,yangaq,daily_tech,float,article,1
+116,alpha191_028,from open article,20,yangaq,daily_tech,float,article,1
+117,alpha191_029,from open article,9,yangaq,daily_tech,float,article,1
+118,alpha191_030,from open article,24,yangaq,daily_tech,float,article,1
+119,alpha191_031,from open article,15,yangaq,daily_tech,float,article,1
+120,alpha191_032,from open article,9,yangaq,daily_tech,float,article,1
+121,alpha191_033,from open article,27,yangaq,daily_tech,float,article,1
+122,alpha191_034,from open article,15,yangaq,daily_tech,float,article,1
+123,alpha191_035,from open article,27,yangaq,daily_tech,float,article,1
+124,alpha191_036,from open article,11,yangaq,daily_tech,float,article,1
+125,alpha191_037,from open article,18,yangaq,daily_tech,float,article,1
+126,alpha191_038,from open article,5,yangaq,daily_tech,float,article,1
+127,alpha191_039,from open article,84,yangaq,daily_tech,float,article,1
+128,alpha191_040,from open article,29,yangaq,daily_tech,float,article,1
+129,alpha191_041,from open article,11,yangaq,daily_tech,float,article,1
+130,alpha191_042,from open article,13,yangaq,daily_tech,float,article,1
+131,alpha191_043,from open article,9,yangaq,daily_tech,float,article,1
+132,alpha191_044,from open article,31,yangaq,daily_tech,float,article,1
+133,alpha191_045,from open article,168,yangaq,daily_tech,float,article,1
+134,alpha191_046,from open article,27,yangaq,daily_tech,float,article,1
+135,alpha191_047,from open article,19,yangaq,daily_tech,float,article,1
+136,alpha191_048,from open article,23,yangaq,daily_tech,float,article,1
+137,alpha191_049,from open article,16,yangaq,daily_tech,float,article,1
+138,alpha191_050,from open article,16,yangaq,daily_tech,float,article,1
+139,alpha191_051,from open article,16,yangaq,daily_tech,float,article,1
+140,alpha191_052,from open article,35,yangaq,daily_tech,float,article,1
+141,alpha191_053,from open article,15,yangaq,daily_tech,float,article,1
+142,alpha191_054,from open article,13,yangaq,daily_tech,float,article,1
+143,alpha191_055,from open article,24,yangaq,daily_tech,float,article,1
+144,alpha191_056,from open article,80,yangaq,daily_tech,float,article,1
+145,alpha191_057,from open article,16,yangaq,daily_tech,float,article,1
+146,alpha191_058,from open article,23,yangaq,daily_tech,float,article,1
+147,alpha191_059,from open article,24,yangaq,daily_tech,float,article,1
+148,alpha191_060,from open article,23,yangaq,daily_tech,float,article,1
+149,alpha191_061,from open article,108,zhaozp,daily_tech,float,article,1
+150,alpha191_062,from open article,8,zhaozp,daily_tech,float,article,1
+151,alpha191_063,from open article,11,zhaozp,daily_tech,float,article,1
+152,alpha191_064,from open article,94,zhaozp,daily_tech,float,article,1
+153,alpha191_065,from open article,9,zhaozp,daily_tech,float,article,1
+154,alpha191_066,from open article,9,zhaozp,daily_tech,float,article,1
+155,alpha191_067,from open article,29,zhaozp,daily_tech,float,article,1
+156,alpha191_068,from open article,21,zhaozp,daily_tech,float,article,1
+157,alpha191_069,from open article,23,zhaozp,daily_tech,float,article,1
+158,alpha191_070,from open article,9,zhaozp,daily_tech,float,article,1
+159,alpha191_071,from open article,27,zhaozp,daily_tech,float,article,1
+160,alpha191_072,from open article,25,zhaozp,daily_tech,float,article,1
+161,alpha191_073,from open article,40,zhaozp,daily_tech,float,article,1
+162,alpha191_074,from open article,70,zhaozp,daily_tech,float,article,1
+163,alpha191_075,from open article,53,zhaozp,daily_tech,float,article,1
+164,alpha191_076,from open article,24,zhaozp,daily_tech,float,article,1
+165,alpha191_077,from open article,52,zhaozp,daily_tech,float,article,1
+166,alpha191_078,from open article,27,zhaozp,daily_tech,float,article,1
+167,alpha191_079,from open article,17,zhaozp,daily_tech,float,article,1
+168,alpha191_080,from open article,8,zhaozp,daily_tech,float,article,1
+169,alpha191_081,from open article,26,zhaozp,daily_tech,float,article,1
+170,alpha191_082,from open article,30,zhaozp,daily_tech,float,article,1
+171,alpha191_083,from open article,8,zhaozp,daily_tech,float,article,1
+172,alpha191_084,from open article,23,zhaozp,daily_tech,float,article,1
+173,alpha191_085,from open article,43,zhaozp,daily_tech,float,article,1
+174,alpha191_086,from open article,5,zhaozp,daily_tech,float,article,1
+175,alpha191_087,from open article,21,zhaozp,daily_tech,float,article,1
+176,alpha191_088,from open article,23,zhaozp,daily_tech,float,article,1
+177,alpha191_089,from open article,44,zhaozp,daily_tech,float,article,1
+178,alpha191_090,from open article,8,zhaozp,daily_tech,float,article,1
+179,alpha191_091,from open article,48,lih,daily_tech,float,article,1
+180,alpha191_092,from open article,216,lih,daily_tech,float,article,1
+181,alpha191_093,from open article,24,lih,daily_tech,float,article,1
+182,alpha191_094,from open article,34,lih,daily_tech,float,article,1
+183,alpha191_095,from open article,23,lih,daily_tech,float,article,1
+184,alpha191_096,from open article,120,lih,daily_tech,float,article,1
+185,alpha191_097,from open article,13,lih,daily_tech,float,article,1
+186,alpha191_098,from open article,303,lih,daily_tech,float,article,1
+187,alpha191_099,from open article,8,lih,daily_tech,float,article,1
+188,alpha191_100,from open article,23,lih,daily_tech,float,article,1
+189,alpha191_101,from open article,85,lih,daily_tech,float,article,1
+190,alpha191_102,from open article,111,lih,daily_tech,float,article,1
+191,alpha191_103,from open article,163,lih,daily_tech,float,article,1
+192,alpha191_104,from open article,23,lih,daily_tech,float,article,1
+193,alpha191_105,from open article,13,lih,daily_tech,float,article,1
+194,alpha191_106,from open article,23,lih,daily_tech,float,article,1
+195,alpha191_107,from open article,4,lih,daily_tech,float,article,1
+196,alpha191_108,from open article,129,lih,daily_tech,float,article,1
+197,alpha191_109,from open article,27,lih,daily_tech,float,article,1
+198,alpha191_110,from open article,124,lih,daily_tech,float,article,1
+199,alpha191_111,from open article,16,lih,daily_tech,float,article,1
+200,alpha191_112,from open article,116,lih,daily_tech,float,article,1
+201,alpha191_113,from open article,48,lih,daily_tech,float,article,1
+202,alpha191_114,from open article,15,lih,daily_tech,float,article,1
+203,alpha191_115,from open article,43,lih,daily_tech,float,article,1
+204,alpha191_116,from open article,43,lih,daily_tech,float,article,1
+205,alpha191_117,from open article,36,lih,daily_tech,float,article,1
+206,alpha191_118,from open article,123,lih,daily_tech,float,article,1
+207,alpha191_119,from open article,63,lih,daily_tech,float,article,1
+208,alpha191_120,from open article,3,lih,daily_tech,float,article,1
+209,alpha191_121,from open article,86,lih,daily_tech,float,article,1
+210,alpha191_122,from open article,49,lih,daily_tech,float,article,1
+211,alpha191_123,from open article,92,lih,daily_tech,float,article,1
+212,alpha191_124,from open article,35,lih,daily_tech,float,article,1
+213,alpha191_125,from open article,120,lih,daily_tech,float,article,1
+214,alpha191_126,from open article,6,lih,daily_tech,float,article,1
+215,alpha191_127,from open article,129,lih,daily_tech,float,article,1
+216,alpha191_128,from open article,222,lih,daily_tech,float,article,1
+217,alpha191_129,from open article,16,lih,daily_tech,float,article,1
+218,alpha191_130,from open article,62,lih,daily_tech,float,article,1
+219,alpha191_131,from open article,89,lih,daily_tech,float,article,1
+220,alpha191_132,from open article,23,lih,daily_tech,float,article,1
+221,alpha191_133,from open article,89,lih,daily_tech,float,article,1
+222,alpha191_134,from open article,15,lih,daily_tech,float,article,1
+223,alpha191_135,from open article,45,lih,daily_tech,float,article,1
+224,alpha191_136,from open article,13,lih,daily_tech,float,article,1
+225,alpha191_137,from open article,21,lih,daily_tech,float,article,1
+226,alpha191_138,from open article,127,lih,daily_tech,float,article,1
+227,alpha191_139,from open article,13,lih,daily_tech,float,article,1
+228,alpha191_140,from open article,101,lih,daily_tech,float,article,1
+229,alpha191_141,from open article,27,lih,daily_tech,float,article,1
+230,alpha191_142,from open article,28,lih,daily_tech,float,article,1
+231,alpha191_143,from open article,4,lih,daily_tech,float,article,1
+232,alpha191_144,from open article,25,lih,daily_tech,float,article,1
+233,alpha191_145,from open article,129,lih,daily_tech,float,article,1
+234,alpha191_146,from open article,131,lih,daily_tech,float,article,1
+235,alpha191_147,from open article,27,lih,daily_tech,float,article,1
+236,alpha191_148,from open article,78,lih,daily_tech,float,article,1
+237,alpha191_150,from open article,6,lih,daily_tech,float,article,1
+238,alpha191_151,from open article,44,lih,daily_tech,float,article,1
+239,alpha191_152,from open article,60,lih,daily_tech,float,article,1
+240,alpha191_153,from open article,31,lih,daily_tech,float,article,1
+241,alpha191_154,from open article,201,lih,daily_tech,float,article,1
+242,alpha191_155,from open article,44,lih,daily_tech,float,article,1
+243,alpha191_156,from open article,11,lih,daily_tech,float,article,1
+244,alpha191_157,from open article,18,lih,daily_tech,float,article,1
+245,alpha191_158,from open article,20,lih,daily_tech,float,article,1
+246,alpha191_159,from open article,139,lih,daily_tech,float,article,1
+247,alpha191_160,from open article,44,lih,daily_tech,float,article,1
+248,alpha191_161,from open article,16,lih,daily_tech,float,article,1
+249,alpha191_163,from open article,23,lih,daily_tech,float,article,1
+250,alpha191_164,from open article,133,lih,daily_tech,float,article,1
+251,alpha191_165,from open article,147,lih,daily_tech,float,article,1
+252,alpha191_166,from open article,45,lih,daily_tech,float,article,1
+253,alpha191_167,from open article,16,lih,daily_tech,float,article,1
+254,alpha191_168,from open article,23,lih,daily_tech,float,article,1
+255,alpha191_169,from open article,52,lih,daily_tech,float,article,1
+256,alpha191_170,from open article,23,lih,daily_tech,float,article,1
+257,alpha191_171,from open article,8,lih,daily_tech,float,article,1
+258,alpha191_172,from open article,223,lih,daily_tech,float,article,1
+259,alpha191_173,from open article,48,lih,daily_tech,float,article,1
+260,alpha191_174,from open article,44,lih,daily_tech,float,article,1
+261,alpha191_175,from open article,10,lih,daily_tech,float,article,1
+262,alpha191_176,from open article,21,lih,daily_tech,float,article,1
+263,alpha191_177,from open article,163,lih,daily_tech,float,article,1
+264,alpha191_178,from open article,4,lih,daily_tech,float,article,1
+265,alpha191_179,from open article,65,lih,daily_tech,float,article,1
+266,alpha191_180,from open article,70,chenjl,daily_tech,float,article,1
+267,alpha191_181,from open article,46,chenjl,daily_tech,float,article,1
+268,alpha191_182,from open article,43,chenjl,daily_tech,float,article,1
+269,alpha191_183,from open article,75,chenjl,daily_tech,float,article,1
+270,alpha191_184,from open article,204,chenjl,daily_tech,float,article,1
+271,alpha191_185,from open article,6,chenjl,daily_tech,float,article,1
+272,alpha191_187,from open article,24,chenjl,daily_tech,float,article,1
+273,alpha191_188,from open article,116,chenjl,daily_tech,float,article,1
+274,alpha191_189,from open article,15,chenjl,daily_tech,float,article,1
+275,alpha191_190,from open article,45,chenjl,daily_tech,float,article,1
+276,alpha191_191,from open article,28,chenjl,daily_tech,float,article,1
+277,amount,成交金额(千元),1,market,daily_spider,float,market,1
+278,avg_price,均价(VWAP),1,market,daily_spider,float,market,1
+279,change,涨跌(元),1,market,daily_spider,float,market,1
+280,close,收盘价(元),1,market,daily_spider,float,market,1
+281,float_a_shr,当日流通股本,1,market,daily_spider,float,market,1
+282,free_shares,当日自由流通股本,1,market,daily_spider,float,market,1
+283,free_turnover,换手率(基准.自由流通股本),1,market,daily_spider,float,market,1
+284,high,最高价(元),1,market,daily_spider,float,market,1
+285,high_52w,52周最高价,1,market,daily_spider,float,market,1
+286,low,最低价(元),1,market,daily_spider,float,market,1
+287,low_52w,52周最低价,1,market,daily_spider,float,market,1
+288,lowest_highest_status,最高最低价状态,1,market,daily_spider,float,market,1
+289,mv,当日流通市值,1,market,daily_spider,float,market,1
+290,net_assets,当日净资产,1,market,daily_spider,float,market,1
+291,net_cash_flows_oper_act_lyr,经营活动产生的现金流量净额(LYR),1,market,daily_spider,float,market,1
+292,net_cash_flows_oper_act_ttm,经营活动产生的现金流量净额(TTM),1,market,daily_spider,float,market,1
+293,net_incr_cash_cash_equ_lyr,现金及现金等价物净增加额(LYR),1,market,daily_spider,float,market,1
+294,net_incr_cash_cash_equ_ttm,现金及现金等价物净增加额(TTM),1,market,daily_spider,float,market,1
+295,net_profit_parent_comp_lyr,归属母公司净利润(LYR),1,market,daily_spider,float,market,1
+296,net_profit_parent_comp_ttm,归属母公司净利润(TTM),1,market,daily_spider,float,market,1
+297,open,开盘价(元),1,market,daily_spider,float,market,1
+298,oper_rev_lyr,营业收入(LYR),1,market,daily_spider,float,market,1
+299,oper_rev_ttm,营业收入(TTM),1,market,daily_spider,float,market,1
+300,pb_new,市净率(PB),1,market,daily_spider,float,market,1
+301,pcf_ncf,"市现率(PCF,现金净流量)",1,market,daily_spider,float,market,1
+302,pcf_ncf_ttm,"市现率(PCF,现金净流量TTM)",1,market,daily_spider,float,market,1
+303,pcf_ocf,"市现率(PCF,经营现金流)",1,market,daily_spider,float,market,1
+304,pcf_ocf_ttm,"市现率(PCF,经营现金流TTM)",1,market,daily_spider,float,market,1
+305,pct_chg,涨跌幅(%),1,market,daily_spider,float,market,1
+306,pe,市盈率(PE),1,market,daily_spider,float,market,1
+307,pe_ttm,"市盈率(PE,TTM)",1,market,daily_spider,float,market,1
+308,pre_close,昨收盘价(元),1,market,daily_spider,float,market,1
+309,price_div_dps,股价/每股派息,1,market,daily_spider,float,market,1
+310,ps,市销率(PS),1,market,daily_spider,float,market,1
+311,ps_ttm,"市销率(PS,TTM)",1,market,daily_spider,float,market,1
+312,tot_mv,当日总市值,1,market,daily_spider,float,market,1
+313,tot_shr,当日总股本,1,market,daily_spider,float,market,1
+314,trade_status,交易状态,1,market,daily_spider,float,market,1
+315,turn,换手率,1,market,daily_spider,float,market,1
+316,up_down_limit_status,涨跌停状态,1,market,daily_spider,float,market,1
+317,volume,成交量(手),1,market,daily_spider,float,market,1

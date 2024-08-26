@@ -47,3 +47,7 @@ factor_def_dict = \
 6. Modeling: MLP, GBDT, AGRU.
 7. Ensembling: according to past 60 days' ICIR.
 8. Backtesting.
+
+## Stage 3: Offline internship: 2024.7.7~2024.8.10
+A. Use DTW algorithm to financial market forecast
+B. Python financial factors writing

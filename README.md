@@ -49,5 +49,6 @@ factor_def_dict = \
 8. Backtesting.
 
 ## Stage 3: Offline internship: 2024.7.7~2024.8.10
-1. Use DTW algorithm to financial market forecast
-2. Python financial factors writing
+1. Analysis the convertible bond (CB) with research report
+2. Use DTW algorithm to financial market forecast
+3. Python financial factors writing

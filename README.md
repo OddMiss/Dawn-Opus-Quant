@@ -48,6 +48,11 @@ factor_def_dict = \
 7. Ensembling: according to past 60 days' ICIR.
 8. Backtesting.
 
+![image](https://github.com/user-attachments/assets/862e950a-c737-4344-b0eb-e2767c06d5b5)
+
+![image](https://github.com/user-attachments/assets/1e08cdb3-8d83-4311-b5b5-610089fa2ea0)
+
+
 ## Stage 3: Offline internship: 2024.7.7~2024.8.10
 1. Analysis the convertible bond (CB) with research report and write operators
 ```python

@@ -50,6 +50,12 @@ factor_def_dict = \
 
 ![image](https://github.com/user-attachments/assets/862e950a-c737-4344-b0eb-e2767c06d5b5)
 
+9. Index Analysis
+
+![image](https://github.com/user-attachments/assets/fd8d7a32-4ceb-4a79-a326-8f2b3bdc3b27)
+
+10. Industry Analysis
+
 ![image](https://github.com/user-attachments/assets/1e08cdb3-8d83-4311-b5b5-610089fa2ea0)
 
 
